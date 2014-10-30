@@ -1,0 +1,14 @@
+<?xml version ='1.0'?>
+<sdf version ='1.4'>
+  <world name='default'>
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+
+    <include>
+      <uri>model://sun</uri>
+    </include>
+
+    <plugin filename="libworld_edit.so" name="world_edit"/>
+  </world>
+</sdf>

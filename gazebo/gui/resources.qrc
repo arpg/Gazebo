@@ -1,0 +1,54 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+  <file>style.qss</file>
+  <file>images/mainwindow_bg.png</file>
+  <file>images/play.png</file>
+  <file>images/pause.png</file>
+  <file>images/end.png</file>
+  <file>images/sphere.png</file>
+  <file>images/cylinder.png</file>
+  <file>images/box.png</file>
+  <file>images/spotlight.png</file>
+  <file>images/pointlight.png</file>
+  <file>images/directionallight.png</file>
+  <file>images/gazebo.svg</file>
+  <file>images/gazebo_neg_60x71.png</file>
+  <file>images/insertModel.png</file>
+  <file>images/translate.png</file>
+  <file>images/rotate.png</file>
+  <file>images/scale.png</file>  
+  <file>images/arrow.png</file>
+  <file>images/down_arrow.png</file>
+  <file>images/box_selection.png</file>
+  <file>images/redo.png</file>
+  <file>images/rulers.png</file>
+  <file>images/snap_to_grid.png</file>
+  <file>images/undo.png</file>
+  <file>images/no_image.png</file>
+  <file>images/copy_object.png</file>
+  <file>images/paste_object.png</file>
+  <file>images/rotate_object.png</file>
+  <file>images/scale_object.png</file>
+  <file>images/door.png</file>
+  <file>images/window.png</file>  
+  <file>images/stairs.png</file>
+  <file>images/wall.png</file> 
+  <file>images/record.png</file>
+  <file>images/record_stop.png</file>
+  <file>images/right_arrow.png</file>
+  <file>images/left_arrow.png</file>
+  <file>images/up_arrow.png</file>
+  <file>images/screenshot.png</file>
+  <file>images/align.png</file>
+  <file>images/magnet.png</file>
+  <file>images/x_min.png</file>
+  <file>images/x_center.png</file>
+  <file>images/x_max.png</file>
+  <file>images/y_min.png</file>
+  <file>images/y_center.png</file>
+  <file>images/y_max.png</file>
+  <file>images/z_min.png</file>
+  <file>images/z_center.png</file>  
+  <file>images/z_max.png</file>        
+</qresource>
+</RCC>
